@@ -1,0 +1,19 @@
+{
+  "name": "@cjs-error/utils",
+  "version": "0.0.1",
+  "description": "utils for cjs-error modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "utils": "git",
+    "url": "git+https://github.com/cjs-error/utils.git"
+  },
+  "author": "Rodney Teal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjs-error/utils/issues"
+  },
+  "homepage": "https://github.com/cjs-error/utils"
+}
